@@ -1,4 +1,3 @@
-# Hello! 👋
 
 This is [Patrick Chiu](https://patrick-kw-chiu.github.io). I'm a full stack developer from Hong Kong 🇭🇰 and currently reside in Canada 🇨🇦. I specialized in building web products and SaaS (guess I can call myself a [web worker](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)?). Recently I'm dipping my toes in Flutter and Rust.
 
@@ -20,7 +19,3 @@ This is [Patrick Chiu](https://patrick-kw-chiu.github.io). I'm a full stack deve
 - [Introducing mongo-http.js](https://betterprogramming.pub/introducing-mongo-http-js-5ae2d74f2155) (2023/1)
 - [Migrating a Node.js App to Cloudflare Workers From Heroku](https://betterprogramming.pub/migrating-a-node-js-app-to-cloudflare-workers-from-heroku-62c679552af) (2022/10)
 - [PyScript Vs. Pyodide: Which Should You Use?](https://python.plainenglish.io/pyscript-or-pyodide-f0f1dc10291f) (2022/5)
-
-### 🪩 Chat with me about anything!
-
-[![Patrick Chiu linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/patrick-chiu/) [![Patrick Chiu discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/693123668749975563/)
