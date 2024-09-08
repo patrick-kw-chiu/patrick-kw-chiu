@@ -13,6 +13,7 @@ This is [Patrick Chiu](https://patrick-kw-chiu.github.io). I'm a full stack deve
 - [In-memory Database for Cloudflare Workers with Upstash](https://betterprogramming.pub/in-memory-database-for-cloudflare-workers-b9c61810ef37) (2022 Nov)
 - [Using Cloudflare KV store in Cloudflare Workers](https://javascript.plainenglish.io/using-cloudflare-kv-store-in-cloudflare-workers-d796d68834ce) (2023 Jul)
 -->
+- [Mitosis - Using Astro.js as the dev server to preview the component with hot-reload](https://dev.to/patrickkwchiu/mitosis-using-astrojs-as-the-dev-server-to-preview-the-component-with-hot-reload-9jg) (2024 Aug)
 - [Deploy a Nextra docs site to GitHub Pages (which lives in a sub-directory)](https://medium.com/gitconnected/deploy-a-nextra-docs-site-to-github-pages-which-lives-in-a-sub-directory-1d299f55b8d8) (2024 May)
 - [Build a CLI utility with `inquirer` and `chalk`](https://levelup.gitconnected.com/build-a-cli-utility-with-inquirer-and-chalk-818bc8add4be) (2023 Oct)
 - [Turn your Cloudflare Workers and KV into a fast serverless cache store with HTTP endpoints](https://dev.to/patrickkwchiu/turn-your-cloudflare-workers-and-kv-into-a-fast-serverless-cache-store-with-http-endpoints-102g) (2023 Aug)
